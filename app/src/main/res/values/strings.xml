@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IM Day App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">TESTE UOL</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+    <string name="explicacao_permissao">
+        Para que seja possível realizar a ligação telefônica partindo do aplicativo,
+        libere a permissão de ligação.
+    </string>
+    <string name="msg_exit">Deseja sair do aplicativo?</string>
+    <string name="msg_compartilhar">Deseja compartilhar o App do Adriano?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="ligarContato">Contato</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="texto_sobre">O App possui, um splash com fade-in na imagem, um recyclerview para carregar a lista,
+        cardview para os itens do recyclerview, criação de arquivo no formato JSON(res/raw), utilização de constrains,
+        linear layout e scrollview. Utilização de messagebox, cores, estilos, dimens, strings e fonte.
+    </string>
+    <string name="texto_plus">PLUS no Teste, eu adicioneis algumas funções da meu app no teste também RXJava para
+        permissão de ligação, botão estilizado, opção de compartilhar meu APP (Carros).
+        Desenvolvido na linguagem Kotlin e arquitetura MVP
+    </string>
+</resources>

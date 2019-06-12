@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+                android:id="@+id/nav_item_about"
+                android:icon="@drawable/ic_interrogation"
+                android:title="@string/sobre" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                    android:id="@+id/nav_item_ligar_contato"
+                    android:icon="@drawable/ic_call_black"
+                    android:title="@string/ligarContato" />
+
+            <item
+                    android:id="@+id/nav_item_compartilhar"
+                    android:icon="@drawable/ic_share_black"
+                    android:title="@string/compartilhar" />
+
+            <item
+                    android:id="@+id/nav_item_exit"
+                    android:icon="@drawable/ic_exit_to_app_black"
+                    android:title="@string/sair" />
+        </menu>
+
+
+    </item>
+
+</menu>
